@@ -24,3 +24,10 @@ Step 5: Locate Limit reservable bandwidth. Either double click on this option or
 Step 6: Now you will observe three options as Enabled, Disabled and Non-Configured. Check the Enabled option and then set the value of Bandwidth limit from 80% to 0%. And the click on OK.
 
 
+
+
+![3-5](https://user-images.githubusercontent.com/18008644/37979856-7bd37de8-320b-11e8-859b-62b6cfab4cfd.png)
+
+
+Hope this would help :D
+
