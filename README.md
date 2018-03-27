@@ -8,3 +8,13 @@ Windows 10 uses about 80% of the bandwidth leaving only 20% for internal use. Th
 Step 1: To Open the Run dialogue box, hold the Windows icon key+ R together.
 
 Step 2: Now enter “gpedit” in the box, and then press Enter or lick on OK.
+
+![1-4](https://user-images.githubusercontent.com/18008644/37979848-7705f0e8-320b-11e8-848d-6a5ead261eeb.png)
+
+Step 3: The Group Policy Editor window will open, considered as a very powerful service. With just some simple tweaks your system breaks or makes up.
+
+Step 4: Follow the given route:
+
+Computer Configuration> Administrative Templates> Network> QoS Packet Scheduler
+
+Step 5: Locate Limit reservable bandwidth. Either double click on this option or right click and select the option Edit.
