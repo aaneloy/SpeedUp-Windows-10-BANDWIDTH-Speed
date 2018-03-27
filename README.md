@@ -18,3 +18,9 @@ Step 4: Follow the given route:
 Computer Configuration> Administrative Templates> Network> QoS Packet Scheduler
 
 Step 5: Locate Limit reservable bandwidth. Either double click on this option or right click and select the option Edit.
+
+![2-2](https://user-images.githubusercontent.com/18008644/37979853-79dc4826-320b-11e8-9c45-f04cc5e195bb.jpg)
+
+Step 6: Now you will observe three options as Enabled, Disabled and Non-Configured. Check the Enabled option and then set the value of Bandwidth limit from 80% to 0%. And the click on OK.
+
+
